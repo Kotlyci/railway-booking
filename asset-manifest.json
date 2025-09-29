@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/railway-booking/static/css/main.ae70079b.css",
+    "main.js": "/railway-booking/static/js/main.9b3a0bd6.js",
+    "static/js/453.66842b34.chunk.js": "/railway-booking/static/js/453.66842b34.chunk.js",
+    "index.html": "/railway-booking/index.html",
+    "main.ae70079b.css.map": "/railway-booking/static/css/main.ae70079b.css.map",
+    "main.9b3a0bd6.js.map": "/railway-booking/static/js/main.9b3a0bd6.js.map",
+    "453.66842b34.chunk.js.map": "/railway-booking/static/js/453.66842b34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae70079b.css",
+    "static/js/main.9b3a0bd6.js"
+  ]
+}
