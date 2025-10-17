@@ -8,23 +8,8 @@ function Header() {
   return (
     <header className="header">
       <div className="header__container">
-        <div className="header__logo">
-          <span className="header__logo-text">Лого</span>
-        </div>
+        <div className="header__logo">Лого</div>
         <nav className="header__nav">
-          <Link
-            to="/"
-            className={`header__link${location.pathname === '/' ? ' header__link--active' : ''}`}
-          >
-            Главная
-          </Link>
-          <Link
-            to="/search"
-            className={`header__link${location.pathname === '/search' ? ' header__link--active' : ''}`}
-          >
-            Поиск билетов
-          </Link>
-          <Link to="/order" className="header__link">Оформить заказ</Link>
           <a href="#about" className="header__link">О нас</a>
           <a href="#how" className="header__link">Как это работает</a>
           <a href="#reviews" className="header__link">Отзывы</a>

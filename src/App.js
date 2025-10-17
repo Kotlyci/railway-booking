@@ -5,6 +5,8 @@ import SearchPage from './pages/SearchPage';
 import OrderPage from './pages/OrderPage';
 import SuccessPage from './pages/SuccessPage';
 import './styles/main.css';
+import './pages/OrderPage.css';
+import './pages/SearchPage.css';
 
 function App() {
   return (
